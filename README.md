@@ -12,19 +12,19 @@
 ![](ML%20Model/self_driving_car_gif.gif)<br>
 
 ### How to Use
-Download Dataset: [link](https://drive.google.com/open?id=1gsr_zdj12F_qPlt-S2tYuz3Fh8Rjt7n2)
+1.1)Download Dataset: [link](https://drive.google.com/open?id=1gsr_zdj12F_qPlt-S2tYuz3Fh8Rjt7n2)
 
-Few more samples can be downloaded from [here](http://data.apollo.auto/?locale=en-us&lang=en)
+1.2)Few more samples can be downloaded from [here](http://data.apollo.auto/?locale=en-us&lang=en)
 
-Even you can run without training using the pretrained model by running below commands
+2)Even you can run without training using the pretrained model by running below commands
 
-Use `python train.py`   --- To train the model
+2.1)Use `python train.py`   --- To train the model
 
-Use `python run.py`     --- To run the model
+2.2)Use `python run.py`     --- To run the model
 
-Use `python run_dataset.py`   --- To run the model on the dataset
+2.3)Use `python run_dataset.py`   --- To run the model on the dataset
 
-For visualizing training dataset, using Tensorboard use `tensorboard --logdir=./logs`, then open http://0.0.0.0:6006/ into your web browser.
+3)For visualizing training dataset, using Tensorboard use `tensorboard --logdir=./logs`, then open http://0.0.0.0:6006/ into your web browser.
 
 
 Reference article:
