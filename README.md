@@ -11,7 +11,7 @@
 * Need to improve visualization of the network-internal processing steps.
 
 ### Demo
-![alt img](./self_driving_car_gif.gif)<br>
+![alt img](../ML Model/self_driving_car_gif.gif)<br>
 
 ### How to Use
 Download Dataset: [link](https://drive.google.com/open?id=1gsr_zdj12F_qPlt-S2tYuz3Fh8Rjt7n2)
@@ -34,4 +34,4 @@ Reference article:
 <b>A TensorFlow/Keras implementation of this [Nvidia paper](https://arxiv.org/pdf/1604.07316.pdf) was taken as reference</b>
 
 ### Author : DEEP AWASTHI
-
+### ©Copyright 2020
