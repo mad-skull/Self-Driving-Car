@@ -11,7 +11,7 @@
 * Need to improve visualization of the network-internal processing steps.
 
 ### Demo
-![alt img](./ML Model/self_driving_car_gif.gif)<br>
+![alt img](/../ML Model/self_driving_car_gif.gif)<br>
 
 ### How to Use
 Download Dataset: [link](https://drive.google.com/open?id=1gsr_zdj12F_qPlt-S2tYuz3Fh8Rjt7n2)
