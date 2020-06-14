@@ -1,4 +1,4 @@
-# Self Driving Car (End to End CNN)
+# Self Driving Car
 
 * I used convolutional neural networks (CNN) to map the raw pixels from a front-facing camera to the steering which are commands for a self-driving car. This powerful end-to-end approach means that with minimum training data from humans, the system learns to steer, with or without lane markings, on both local roads and highways. The system can also operate in areas with unclear visual guidance such as parking lots or unpaved roads.
 * The system is trained to automatically learn the internal representations of necessary processing steps, such as detecting useful road features, with only the human steering angle as the training signal. We do not need to explicitly trained it to detect, for example, the outline of roads.
@@ -11,7 +11,7 @@
 * Need to improve visualization of the network-internal processing steps.
 
 ### Demo
-![alt img](ML Model/self_driving_car_gif.gif)<br>
+![alt img](./self_driving_car_gif.gif)<br>
 
 ### How to Use
 Download Dataset: [link](https://drive.google.com/open?id=1gsr_zdj12F_qPlt-S2tYuz3Fh8Rjt7n2)
@@ -32,4 +32,6 @@ For visualizing training dataset, using Tensorboard use `tensorboard --logdir=./
 
 Reference article:
 <b>A TensorFlow/Keras implementation of this [Nvidia paper](https://arxiv.org/pdf/1604.07316.pdf) was taken as reference</b>
+
+### Author : DEEP AWASTHI
 
